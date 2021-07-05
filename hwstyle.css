@@ -33,15 +33,15 @@ header h2 {
     text-align: right;
 }
 .mywork1{
-    background-image: url(../week2-homework-portfolio/Screen\ Shot\ 2021-07-02\ at\ 8.04.53\ AM.jpg);
+    background-image: url(./Screen\ Shot\ 2021-07-02\ at\ 8.04.53\ AM.jpg);
 }
 
 .mywork2 {
-    background-image: url(../week2-homework-portfolio/bluecomputer.jpeg);
+    background-image: url(bluecomputer.jpeg);
 }
 
 .mywork3 {
-    background-image: url(../week2-homework-portfolio/bluecomputer.jpeg);
+    background-image: url(bluecomputer.jpeg);
 }
 .mywork1 { 
     position: relative;
@@ -104,6 +104,11 @@ div[class*='overlay']:hover {
     flex-basis: 100%;
     background-repeat: no-repeat;
 
+}
+
+.mywork {
+    display: flex;
+    flex-wrap: wrap;
 }
 
 

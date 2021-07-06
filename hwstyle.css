@@ -55,8 +55,8 @@ header h2 {
  .mywork2 {
     position: relative;
     top: 0px;
-    width: 552px;
-    height: 322px;
+    width: 300px;
+    height: 300px;
     z-index: 1;
     opacity: 1;
     transition: opacity 2s;
@@ -64,8 +64,8 @@ header h2 {
 .mywork3 { 
     position: relative;
     top: 0px;
-    width: 552px;
-    height: 322px;
+    width: 300px;
+    height: 300px;
     z-index: 1;
     opacity: 1;
     transition: opacity 2s;
@@ -82,12 +82,16 @@ header h2 {
     background-color: peachpuff;
     position: absolute;
     transition: opacity 1s;
+    width: 300px;
+    height: 300px;
 }
 
 .overlay3 {
     background-color: lavenderblush;
     position: absolute;
     transition: opacity 1s;
+    width: 300px;
+    height: 300px;
 }
 
 div[class*='overlay']:hover {
@@ -105,11 +109,3 @@ div[class*='overlay']:hover {
     background-repeat: no-repeat;
 
 }
-
-.mywork {
-    display: flex;
-    flex-wrap: wrap;
-}
-
-
-

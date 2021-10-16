@@ -9,3 +9,7 @@ Portfolio contains:
  - Current Work/Projects created
  - Contact Information for Karina Williams
 
+ # Deployed Portfolio Link
+
+ https://williamskarina.github.io/karina-williams-portfolio/
+
